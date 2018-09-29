@@ -1,1 +1,1 @@
-# updates
+{"error":"No update available."}
